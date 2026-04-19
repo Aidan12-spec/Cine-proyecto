@@ -41,7 +41,7 @@
     "imagen": "batman-caballero-de-la-noche.webp",
     "sinopsis": "Con la ayuda del teniente Jim Gordon y el fiscal del distrito Harvey Dent, Batman se propone destruir el crimen organizado en Gotham. El triunvirato demuestra ser eficaz, pero pronto se ven atrapados por un cerebro criminal ascendente conocido como Joker, que sumerge a la ciudad en la anarquía y obliga al Caballero Oscuro a cruzar la línea entre héroe y vigilante.",
     "trailer": "https://www.youtube.com/embed/dzQtWkpc2-c",
-    "estreno": "2024-04-10",
+    "estreno": "2026-04-10",
     "precios": {
       "estreno": 12.00,
       "normal": 9.00
@@ -56,7 +56,7 @@
     ],
     "imagen": "forest-gump.png",
     "sinopsis": "Sentado en un banco en Savannah, Georgia, Forrest Gump espera al autobús. Mientras éste tarda en llegar, el joven cuenta su vida a las personas que se sientan a esperar con él. Aunque sufre un pequeño retraso mental, esto no le impide hacer cosas maravillosas. Sin entender del todo lo que sucede a su alrededor, Forrest toma partido en los eventos más importantes de la historia de los Estados Unidos.",
-    "trailer": "https://www.youtube.com/watch?v=Mj9IA9tTfio",
+    "trailer": "https://www.youtube.com/embed/Mj9IA9tTfio",
     "estreno": "1994-07-06",
     "precios": {
       "estreno": 10.00,
@@ -71,8 +71,8 @@
       "Acción"
     ],
     "imagen": "matrix.png",
-    "sinopsis": "El programador informático Thomas Anderson, más conocido en el mundo de los hackers como Neo, está en el punto de mira del temible agente Smith. Otros dos piratas informáticos, Trinity y Morfeo, se ponen en contacto con Neo para ayudarlo a escapar. Matrix te posee. Sigue al conejo blanco.",
-    "trailer": "https://www.youtube.com/watch?v=nUEQNVV3Gfs",
+    "sinopsis": "Thomas Anderson (Keanu Reeves), un programador que secretamente es el hacker Neo, descubre que su realidad cotidiana es una simulación virtual sofisticada llamada Matrix, creada por máquinas inteligentes para esclavizar a la humanidad y usar sus cuerpos como fuente de energía. Tras ser contactado por Morfeo y Trinity, despierta al mundo real y se une a la resistencia humana, aceptando su destino como el Elegido para controlar Matrix y liberar a la humanidad.",
+    "trailer": "https://www.youtube.com/embed/nUEQNVV3Gfs",
     "estreno": "1999-03-31",
     "precios": {
       "estreno": 9.00,
@@ -86,9 +86,9 @@
       "Thriller",
       "Ciencia ficción"
     ],
-    "imagen": "la-sustancia.png",
-    "sinopsis": "La historia sigue a Elisabeth Sparkle, una estrella de televisión de fitness que, al cumplir 50 años, es despedida debido a su edad. Desesperada por recuperar su juventud y estatus, accede a probar una misteriosa sustancia que promete crear una versión más joven, bella y perfecta de sí misma.",
-    "trailer": "https://www.youtube.com/watch?v=bb10YAiF8nE",
+    "imagen": "la-sustancia.jpg",
+    "sinopsis": "'Tú, pero mejor en todos los sentidos'. Esta es la promesa, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto. Tentada por la oportunidad Elisabeth Sparkle, una celebridad en decadencia, consume este suero del mercado negro creando una versión rejuvenecida de sí misma, Sue, con efectos tan inesperados como aterradores.",
+    "trailer": "https://www.youtube.com/embed/bb10YAiF8nE",
     "estreno": "2024-09-20",
     "precios": {
       "estreno": 11.00,
@@ -102,10 +102,10 @@
       "Péplum",
       "Acción"
     ],
-    "imagen": "gladiador.png",
-    "sinopsis": "La película se centra en la figura del emperador Marco Aurelio, quien desea transferir el poder a Máximo, uno de los fieles generales de su ejército. Sin embargo, su hijo Cómodo, el heredero, no está dispuesto a aceptar la decisión de su padre y pretende acabar con la vida de Máximo.",
-    "trailer": "https://www.youtube.com/watch?v=P5ieIbInFpg",
-    "estreno": "2000-05-05",
+    "imagen": "gladiador-1.png",
+    "sinopsis": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio (Richard Harris) decide transferir el poder a Máximo (Russell Crowe), bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo (Joaquin Phoenix), que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
+    "trailer": "https://www.youtube.com/embed/P5ieIbInFpg",
+    "estreno": "2026-05-05",
     "precios": {
       "estreno": 9.00,
       "normal": 4.00
@@ -119,9 +119,9 @@
       "Suspenso"
     ],
     "imagen": "el-resplandor.png",
-    "sinopsis": "Jack Torrance es un hombre que se muda con su familia a un hotel aislado que debe cuidar, con la esperanza de salir del bloqueo creativo de su escritura. Mientras Jack no puede escapar del bloqueo, las visiones psíquicas de su hijo van en aumento.",
-    "trailer": "https://www.youtube.com/watch?v=FZQvIJxG9Xs",
-    "estreno": "1980-05-23",
+    "sinopsis": "Jack Torrance se traslada con su mujer y su hijo de siete años al impresionante hotel Overlook, en Colorado, para encargarse del mantenimiento de las instalaciones durante la temporada invernal, época en la que permanece cerrado y aislado por la nieve. Su objetivo es encontrar paz y sosiego para escribir una novela. Sin embargo, poco después de su llegada al hotel, al mismo tiempo que Jack empieza a padecer inquietantes trastornos de personalidad, se suceden extraños y espeluznantes fenómenos paranormales.",
+    "trailer": "https://www.youtube.com/embed/FZQvIJxG9Xs",
+    "estreno": "2026-05-23",
     "precios": {
       "estreno": 10.00,
       "normal": 7.00
@@ -134,9 +134,9 @@
       "Drama biográfico",
       "Historia"
     ],
-    "imagen": "12-años-de-esclavitud",
+    "imagen": "12-años-de-esclavitud.jpeg",
     "sinopsis": "Basada en un hecho real ocurrido en 1850, narra la historia de Solomon Northup, un culto músico negro que vivía con su familia en Nueva York. Tras tomar una copa con dos hombres, Solomon descubre que ha sido drogado y secuestrado para ser vendido como esclavo en plantaciones de Luisiana, donde es obligado a permanecer durante 12 años hasta su liberación.",
-    "trailer": "https://www.youtube.com/watch?v=YrhvbOOjGWw",
+    "trailer": "https://www.youtube.com/embed/YrhvbOOjGWw",
     "estreno": "2013-10-18",
     "precios": {
       "estreno": 13.00,

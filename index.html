@@ -1,11 +1,37 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <title>Películas en Cartelera</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CinePlus</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+    body { 
+        font-family: 'Poppins', sans-serif; 
+        background-color: #1a1a1a; /*Fondo oscuro*/
+        color: #ffffff; /* Texto en blanco*/
+    }
+    .card { 
+        background-color: #2a2a2a; /* Gris oscuro para las tarjetas */
+        border: none; 
+        color: white;
+        transition: transform 0.3s; 
+        border-radius: 15px; 
+    }
+    .card:hover { 
+        transform: translateY(-10px); 
+        box-shadow: 0 10px 20px rgba(0,0,0,0.5) !important;
+    }
+    .text-muted { color: #b0b0b0 !important; } /* Gris claro para sinopsis y géneros */
+    
+    /* Estilo para que el encabezado combine */
+    header.bg-primary {
+        background-color: #0d6efd !important;
+    }
+</style>
 </head>
 <body>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -15,6 +41,8 @@
         <ul class="navbar-nav ms-auto">
           <li class="nav-item"><a class="nav-link active" href="index.html">Inicio</a></li>
           <li class="nav-item"><a class="nav-link" href="pages/contacto.html">Contacto</a></li>
+          <li class="nav-item">
+          <a class="nav-link" href="pages/renta.html">Rentar</a></li>
         </ul>
       </div>
     </div>
@@ -24,9 +52,10 @@
     <h1>Películas en Cartelera</h1>
     <p class="lead">Consulta los estrenos y favoritos del público</p>
   </header>
-
+  
   <main class="container py-4">
     <div class="row" id="lista-peliculas">
+
       <!-- Películas cargadas dinámicamente -->
     </div>
   </main>
@@ -34,7 +63,6 @@
   <footer class="bg-dark text-center text-white py-3">
     <small>&copy; 2024 CinePlus. Todos los derechos reservados.</small>
   </footer>
-
   <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
   <script src="js/app.js"></script>
 </body>
